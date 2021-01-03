@@ -44,6 +44,8 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Renesas](http://renesas.com/) Pretty good. They send samples of cheap stuff within a week and haven&#39;t fulfilled my requests for more expensive parts.
 
+[Micron](micron.com/) Sends samples free via USPS.
+
 # Passives / Opto / Discrete Semi
 
 [Vishay](http://vishay.com/) They don&#39;t send samples (if) you can find a part that Vishay &quot;stocks&quot;
