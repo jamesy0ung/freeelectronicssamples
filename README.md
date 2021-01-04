@@ -7,6 +7,8 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 - Do not resell samples (this is why TI stopped sending samples to students)
 - Be prepared for a barrage of phone calls from some manufacturers.
 
+- Have a project or something prepared in case you are questioned about the usage of the samples
+
 # **The List**
 
 
@@ -50,7 +52,9 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Vishay](http://vishay.com/) They don&#39;t send samples (if) you can find a part that Vishay &quot;stocks&quot;
 
-[TE](http://te.com/) Connectivity. Sent multiple orders with more expensive parts. I got 1 email from sales, but they haven&#39;t bugged me.
+[TE](http://te.com/) TE Connectivity. Pretty good. Sent multiple orders with more expensive parts. All were shipped very quickly. I got 1 email from sales, but they haven&#39;t bugged me.
+
+[Würth Elektronik](https://www.we-online.com/catalog/en) Pretty good. Sales rep called me next day to check on project and to ask how I found out about them, etc.
 
 [Bivar](http://www.bivar.com/) No response yet.
 
