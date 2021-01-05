@@ -1,3 +1,4 @@
+
 # **Please Read**
 Please contribute to this list so it does not get bad and unmaintained like the adawiki list this is based off.
 
@@ -10,6 +11,21 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 - Have a project or something prepared in case you are questioned about the usage of the samples
 
 # **The List**
+
+# Recommended
+[Maxim Integrated ](http://www.maximintegrated.com/) IC's / Microcontrollers. Sends samples only if you have a corporate/school email.
+
+[Microchip ](https://www.microchip.com/samples/) IC's / Microcontrollers. They make all kinds of stuff. I used my personal email which is on a custom domain. They do not accept common emails such as @gmail.com. I have ordered from there so much and they do not bug you / &quot;follow up&quot;
+
+[NXP](http://www.nxp.com/) IC's / Microcontrollers. Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks.
+
+[Renesas](http://renesas.com/) IC's / Microcontrollers. Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts.
+
+[Micron](http://micron.com/) IC's / Microcontrollers. Sends samples free via USPS.
+
+[TE](http://te.com/) Passives, Connectors, Switches. TE Connectivity. Pretty good. Sent multiple orders with more expensive parts. All were shipped very quickly. I got 1 email from sales, but they haven&#39;t bugged me.
+
+[Amphenol ICC](http://amphenol-icc.com/) Connectors. Sent my connectors using UPS Saver. Pretty quick turnaround.
 
 
 # IC&#39;s / Microcontrollers
@@ -44,7 +60,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Macronix International](http://macronix.com/) They do not want to send samples and if you really ask them, they will ask you for a shipping account number.
 
-[Renesas](http://renesas.com/) Pretty good. They send samples of cheap stuff within a week and haven&#39;t fulfilled my requests for more expensive parts.
+[Renesas](http://renesas.com/) Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts.
 
 [Micron](http://micron.com/) Sends samples free via USPS.
 
@@ -56,7 +72,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Würth Elektronik](https://www.we-online.com/catalog/en) Pretty good. Sales rep called me next day to check on project and to ask how I found out about them, etc.
 
-[Bivar](http://www.bivar.com/) No response yet.
+[Bivar](http://www.bivar.com/) They do not send samples and want you to buy them.
 
 [Lite-On](http://us.liteon.com/en-global/Home/index) Appears to do samples of LEDs/optoelectronics.
 
@@ -80,7 +96,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Norcomp](http://www.norcomp.net/Navpages/sample.htm) Need shipping account. Have not tried.
 
-[Amphenol ICC](http://amphenol-icc.com/) No response yet.
+[Amphenol ICC](http://amphenol-icc.com/) Sent my connectors using UPS Saver. Pretty quick turnaround.
 
 [3M](http://solutions.3m.com/wps/portal/3M/en_WW/electronics/home/SupportTraining/ContactUs/?PC_7_RJH9U5230GE3E02LECIE204UH5_univid=1180594590962&amp;Interconnects%20Request%20a%20Sample%20/%20Information) Their website is hard to navigate and I cannot find a samples request form for Australia.
 
