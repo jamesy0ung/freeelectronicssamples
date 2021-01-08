@@ -40,7 +40,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Silicon Laboratories](http://www.silabs.com/) Haven&#39;t tried yet
 
-[STMicroelectronics](http://www.st.com/) Ordered, but no response. They want $7 for shipping to Australia. They had a free shipping offer for New Years.
+[STMicroelectronics](http://www.st.com/) Ordered and sent DHL non tracked. They want $7 for shipping to Australia. They had a free shipping offer for New Years.
 
 [ON Semiconductor](http://www.onsemi.com/) ON wants $15 for shipping + $5 for handling. Have not tried.
 
