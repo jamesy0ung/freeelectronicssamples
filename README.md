@@ -118,7 +118,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 # Others
 
-[MicroMetals](http://www.micrometals.com/samples_index.html) Have not tried.
+[MicroMetals](http://www.micrometals.com/samples_index.html) No option on website. Have not tried.
 
 [Fox Electronics](http://www.foxonline.com/) No responce.
 
