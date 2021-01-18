@@ -82,7 +82,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [SamTec](http://www.samtec.com/) No response yet.
 
-[Mill-Max](http://www.mill-max.com/) Their website is kinda weird to navigate. Haven&#39;t tried yet.
+[Mill-Max](http://www.mill-max.com/) Sent request.
 
 [Desco / Charleswater](http://desco.descoindustries.com/) Have not tried; they apparently don&#39;t send samples
 
@@ -126,7 +126,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [RichCo Inc](http://www.richco-inc.com/sampleframes.asp/) Have not tried.
 
-[Coilcraft](http://www.coilcraft.com/) Have not tried.
+[Coilcraft](http://www.coilcraft.com/) Will only send to "professional engineers"
 
 [Parallax](http://www.parallax.com/) No form on website. They said they do not do samples.
 
