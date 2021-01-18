@@ -13,17 +13,17 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 # **The List**
 
 # Recommended
-[Maxim Integrated ](http://www.maximintegrated.com/) IC's / Microcontrollers. Sends samples only if you have a corporate/school email.
+[Maxim Integrated ](http://www.maximintegrated.com/) IC's / Microcontrollers. Sends samples only if you have a corporate/school email. DHL Express.
 
-[Microchip ](https://www.microchip.com/samples/) IC's / Microcontrollers. They make all kinds of stuff. I used my personal email which is on a custom domain. They do not accept common emails such as @gmail.com. I have ordered from there so much and they do not bug you / &quot;follow up&quot;
+[Microchip ](https://www.microchip.com/samples/) IC's / Microcontrollers. They make all kinds of stuff. I used my personal email which is on a custom domain. They do not accept common emails such as @gmail.com. I have ordered from there so much and they do not bug you / &quot;follow up&quot;. DHL Express.
 
-[NXP](http://www.nxp.com/) IC's / Microcontrollers. Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks.
+[NXP](http://www.nxp.com/) IC's / Microcontrollers. Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks. FedEX Express.
 
-[Renesas](http://renesas.com/) IC's / Microcontrollers. Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts.
+[Renesas](http://renesas.com/) IC's / Microcontrollers. Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts. FedEX Express.
 
 [Micron](http://micron.com/) IC's / Microcontrollers. Sends samples free via USPS.
 
-[TE](http://te.com/) Passives, Connectors, Switches. TE Connectivity. Pretty good. Sent multiple orders with more expensive parts. All were shipped very quickly. I got 1 email from sales, but they haven&#39;t bugged me.
+[TE](http://te.com/) Passives, Connectors, Switches. TE Connectivity. Pretty good. Sent multiple orders with more expensive parts. All were shipped very quickly. I got 1 email from sales, but they haven&#39;t bugged me. FedEX Express.
 
 [Amphenol ICC](http://amphenol-icc.com/) Connectors. Sent my connectors using UPS Saver. Pretty quick turnaround.
 
@@ -38,7 +38,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Microchip ](https://www.microchip.com/samples/)The Best. They make all kinds of stuff. I used my personal email. They do not accept common emails such as @gmail.com. I have ordered from there so much and they do not bug you / &quot;follow up&quot;
 
-[Silicon Laboratories](http://www.silabs.com/) Haven&#39;t tried yet
+[Silicon Laboratories](http://www.silabs.com/) Sent request.
 
 [STMicroelectronics](http://www.st.com/) Ordered and sent DHL non tracked. They want $7 for shipping to Australia. They had a free shipping offer for New Years.
 
@@ -48,7 +48,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Cirrus Logic ](http://www.cirrus.com/)Haven&#39;t tried yet
 
-[Allegro Microsystems](http://www.allegromicro.com/) Haven&#39;t tried yet
+[Allegro Microsystems](http://www.allegromicro.com/) No option for samples on website.
 
 [Sensirion](http://www.sensirion.com/) No free samples at the moment.
 
@@ -60,7 +60,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Macronix International](http://macronix.com/) They do not want to send samples and if you really ask them, they will ask you for a shipping account number.
 
-[Renesas](http://renesas.com/) Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts.
+[Renesas](http://renesas.com/) Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts. FedEX Express.
 
 [Micron](http://micron.com/) Sends samples free via USPS.
 
@@ -68,17 +68,17 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Vishay](http://vishay.com/) They don&#39;t send samples (if) you can find a part that Vishay &quot;stocks&quot;
 
-[TE](http://te.com/) TE Connectivity. Pretty good. Sent multiple orders with more expensive parts. All were shipped very quickly. I got 1 email from sales, but they haven&#39;t bugged me.
+[TE](http://te.com/) TE Connectivity. Pretty good. Sent multiple orders with more expensive parts. All were shipped very quickly. I got 1 email from sales, but they haven&#39;t bugged me. FedEX Express
 
-[Würth Elektronik](https://www.we-online.com/catalog/en) Pretty good. Sales rep called me next day to check on project and to ask how I found out about them, etc.
+[Würth Elektronik](https://www.we-online.com/catalog/en) Pretty good. Sales rep called me next day to check on project and to ask how I found out about them, etc. FedEX Express.
 
 [Bivar](http://www.bivar.com/) They do not send samples and want you to buy them.
 
-[Lite-On](http://us.liteon.com/en-global/Home/index) Appears to do samples of LEDs/optoelectronics.
+[Lite-On](http://us.liteon.com/en-global/Home/index) Sent request.
 
 # Connectors
 
-[TE](http://te.com/) Connectivity. Sent multiple orders with more expensive parts. I got 1 email from sales, but they haven&#39;t bugged me.
+[TE](http://te.com/) Connectivity. Sent multiple orders with more expensive parts. I got 1 email from sales, but they haven&#39;t bugged me. FedEX Express.
 
 [SamTec](http://www.samtec.com/) No response yet.
 
