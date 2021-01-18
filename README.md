@@ -120,7 +120,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [MicroMetals](http://www.micrometals.com/samples_index.html) Have not tried.
 
-[Fox Electronics](http://www.foxonline.com/) Have not tried.
+[Fox Electronics](http://www.foxonline.com/) No responce.
 
 [Purdy Electronics](http://www.purdyelectronics.com/) No form on website. They will send you off to a distributor to buy it.
 
