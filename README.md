@@ -56,7 +56,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Zilog](http://www.zilog.com/) Not much choice. I requested samples a while ago and no response.
 
-[Austria Microsystems](http://ams.com/) Gotten samples with no &quot;follow up&quot;. FedEx International Express.
+[Austria Microsystems](http://ams.com/) Gotten samples with no &quot;follow up&quot;. DHL Express.
 
 [Macronix International](http://macronix.com/) They do not want to send samples and if you really ask them, they will ask you for a shipping account number.
 
