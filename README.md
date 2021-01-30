@@ -84,7 +84,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Mill-Max](http://www.mill-max.com/) Sent request.
 
-[Desco / Charleswater](http://desco.descoindustries.com/) Have not tried; they apparently don&#39;t send samples
+[Desco / Charleswater](http://desco.descoindustries.com/) Will only send to "professional engineers"
 
 [ITW/Fastex](http://www.itw-fastex.com/catalog.html) Have not tried.
 
