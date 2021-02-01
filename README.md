@@ -13,9 +13,9 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 # **The List**
 
 # Recommended
-[Maxim Integrated ](http://www.maximintegrated.com/) IC's / Microcontrollers. Sends samples only if you have a corporate/school email. DHL Express.
+[Maxim Integrated ](http://www.maximintegrated.com/)Sends samples only if you have a corporate/school email. Quick turnaround (3 days) and uses DHL Express WPX.
 
-[Microchip ](https://www.microchip.com/samples/) IC's / Microcontrollers. They make all kinds of stuff. I used my personal email which is on a custom domain. They do not accept common emails such as @gmail.com. I have ordered from there so much and they do not bug you / &quot;follow up&quot;. DHL Express.
+[Microchip ](https://www.microchip.com/samples/) IC's / Microcontrollers. They make all kinds of stuff. I used my personal email which is on a custom domain. They do not accept common emails such as @gmail.com. I have ordered from there so much and they do not bug you / &quot;follow up&quot;. DHL Express WPX.
 
 [NXP](http://www.nxp.com/) IC's / Microcontrollers. Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks. FedEX Express.
 
@@ -30,7 +30,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 # IC&#39;s / Microcontrollers
 
-[Maxim Integrated ](http://www.maximintegrated.com/)Sends samples only if you have a corporate/school email.
+[Maxim Integrated ](http://www.maximintegrated.com/)Sends samples only if you have a corporate/school email. Quick turnaround (3 days) and uses DHL Express WPX.
 
 [Analog Devices](http://www.analog.com/en/index.html) They send samples but I am yet to receive a response.
 
@@ -38,7 +38,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Microchip ](https://www.microchip.com/samples/)The Best. They make all kinds of stuff. I used my personal email. They do not accept common emails such as @gmail.com. I have ordered from there so much and they do not bug you / &quot;follow up&quot;
 
-[Silicon Laboratories](http://www.silabs.com/) Sent request.
+[Silicon Laboratories](http://www.silabs.com/) Sent request and was shipped quickly via DHL 
 
 [STMicroelectronics](http://www.st.com/) Ordered and sent DHL non tracked. They want $7 for shipping to Australia. They had a free shipping offer for New Years.
 
@@ -56,7 +56,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Zilog](http://www.zilog.com/) Not much choice. I requested samples a while ago and no response.
 
-[Austria Microsystems](http://ams.com/) Gotten samples with no &quot;follow up&quot;. DHL Express.
+[Austria Microsystems](http://ams.com/) Gotten samples with no &quot;follow up&quot;. DHL Express WPX.
 
 [Macronix International](http://macronix.com/) They do not want to send samples and if you really ask them, they will ask you for a shipping account number.
 
@@ -104,9 +104,9 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [PacTec Enclosures](http://www.pactecenclosures.com/free_sample.lfml) Have not tried.
 
-[OKW Enclosures](http://www.okwenclosures.com/) - Have not tried.
+[OKW Enclosures](http://www.okwenclosures.com/) - No responce.
 
-[Serpac](http://www.serpac.com/) Have not tried.
+[Serpac](http://www.serpac.com/) No responce. 
 
 [Hammond Manufacturing](http://www.hammfg.com/) No sampling option on webpage. Have not tried.
 
@@ -134,9 +134,9 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Bourns](http://www.bourns.com/SampleReq.aspx) Not even going to try. Apparently they will pester you consistently.
 
-[Ametherm](http://www.ametherm.com/SampleRequest.html) Free shipping within usa and Canada. Have not tried.
+[Ametherm](http://www.ametherm.com/SampleRequest.html) Free shipping only for usa and Canada. Have not tried.
 
-[AVX Corporation](https://www.avx.com/RequestSample.asp) Have not tried.
+[AVX Corporation](https://www.avx.com/RequestSample.asp) No responce.
 
 [KOA Speer Electronics](http://www.koaspeer.com/order-samples/) Sales rep emailed me saying they do not send samples.
 
@@ -146,4 +146,4 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [SJS Products](http://www.sjsproducts.com/us/requests/request/quote) Have not tried.
 
-[Ecliptek](http://www.ecliptek.com/) Asked for samples and no response a month later.
+[Ecliptek](http://www.ecliptek.com/) Asked for samples and no response.
