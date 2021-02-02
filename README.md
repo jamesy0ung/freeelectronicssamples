@@ -64,6 +64,8 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Micron](http://micron.com/) Sends samples free via USPS.
 
+[Micro Crystal](https://www.microcrystal.com/en/) Real Time clock and crystal oscilator. Sends a demo bard and 5 pieces sample. FedEX Express.
+
 # Passives / Opto / Discrete Semi
 
 [Vishay](http://vishay.com/) They don&#39;t send samples (if) you can find a part that Vishay &quot;stocks&quot;
