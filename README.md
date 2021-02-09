@@ -27,7 +27,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Amphenol ICC](http://amphenol-icc.com/) Connectors. Sent my connectors using UPS Saver. Pretty quick turnaround.
 
-[Nexperia] (http://www.nexperia.com/) ICs. Writing the sales office a short email about your project is the way to go. Very quick response and delivery.
+[Nexperia](http://www.nexperia.com/) ICs. Writing the sales office a short email about your project is the way to go. Very quick response and delivery.
 
 
 # IC&#39;s / Microcontrollers
@@ -67,6 +67,8 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 [Micron](http://micron.com/) Sends samples free via USPS.
 
 [Micro Crystal](https://www.microcrystal.com/en/) Real Time clock and crystal oscilator. Sends a demo bard and 5 pieces sample. FedEX Express.
+
+[Nexperia](http://www.nexperia.com/) ICs. Writing the sales office a short email about your project is the way to go. Very quick response and delivery.
 
 # Passives / Opto / Discrete Semi
 
