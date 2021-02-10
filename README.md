@@ -21,7 +21,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Renesas](http://renesas.com/) IC's / Microcontrollers. Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts. FedEX Express.
 
-[Micron](http://micron.com/) IC's / Microcontrollers. Sends samples free via USPS.
+[Micron](http://micron.com/) IC's / Microcontrollers. Sends samples free via USPS Priority Mail. Takes 1+ months.
 
 [TE](http://te.com/) Passives, Connectors, Switches. TE Connectivity. Pretty good. Sent multiple orders with more expensive parts. All were shipped very quickly. I got 1 email from sales, but they haven&#39;t bugged me. FedEX Express.
 
@@ -64,7 +64,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Renesas](http://renesas.com/) Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts. FedEX Express.
 
-[Micron](http://micron.com/) Sends samples free via USPS.
+[Micron](http://micron.com/) IC's / Microcontrollers. Sends samples free via USPS Priority Mail. Takes 1+ months.
 
 [Micro Crystal](https://www.microcrystal.com/en/) Real Time clock and crystal oscilator. Sends a demo bard and 5 pieces sample. FedEX Express.
 
