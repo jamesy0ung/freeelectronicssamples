@@ -66,7 +66,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Micron](http://micron.com/) IC's / Microcontrollers. Sends samples free via USPS Priority Mail. Takes 1+ months.
 
-[Micro Crystal](https://www.microcrystal.com/en/) Real Time clock and crystal oscilator. Sends a demo bard and 5 pieces sample. FedEX Express.
+[Micro Crystal](https://www.microcrystal.com/en/) Real Time clock and crystal oscilator. Sends a demo bard and 5 pieces sample. Forwarded my details to annoying distirbutor. FedEX Express.
 
 [Nexperia](http://www.nexperia.com/) ICs. Writing the sales office a short email about your project is the way to go. Very quick response and delivery.
 
