@@ -54,7 +54,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Sensirion](http://www.sensirion.com/) No free samples at the moment.
 
-[Central Semi](http://centralsemi.com/) Have not tried.
+[Central Semi](http://centralsemi.com/) Website is broken. Uses old recapcha.
 
 [Zilog](http://www.zilog.com/) Not much choice. I requested samples a while ago and no response.
 
