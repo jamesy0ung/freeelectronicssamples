@@ -34,7 +34,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [Maxim Integrated ](http://www.maximintegrated.com/)Sends samples only if you have a corporate/school email. Quick turnaround (3 days) and uses DHL Express WPX.
 
-[Analog Devices](http://www.analog.com/en/index.html) They send samples but I am yet to receive a response.
+[Analog Devices](http://www.analog.com/en/index.html) Samples only if you have a corporate/university E-Mail ID. Usually require an EORI number for EU shipping (you can fill in the field with N/A and mention you are a student) but this might get you in trouble with customs. You are required to fill in details about what project the samples will be used in. Only one samples account per person is allowed. Limit samples orders to two parts of each type, and five types in total.
 
 [Texas Instruments (National Semi)](https://www-a.ti.com/apps/samp/basket.asp) TI says that samples requests are only for professional engineers and fobs you off to the TI Store.
 
@@ -132,7 +132,7 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 
 [RichCo Inc](http://www.richco-inc.com/sampleframes.asp/) Have not tried.
 
-[Coilcraft](http://www.coilcraft.com/) Will only send to "professional engineers"
+[Coilcraft](http://www.coilcraft.com/) Inductors, Transformers and other high-quality magnetics. They are very generous with samples. You can contact a sales rep, and they will provide you with samples regardless of if you are working, a student or just an independent hobbyist. Contacting them through a regular E-Mail domain (e.g. @gmail.com) also works.
 
 [Parallax](http://www.parallax.com/) No form on website. They said they do not do samples.
 
