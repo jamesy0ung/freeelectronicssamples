@@ -8,8 +8,12 @@ Please contribute to this list so it does not get bad and unmaintained like the 
 - Do not resell samples (this is why TI stopped sending samples to students)
 - Be prepared for a barrage of phone calls from some manufacturers.
 
-- Have a project or something prepared in case you are questioned about the usage of the samples
+- You may be questioned about the use of samples. Know your project
 
+# **Side note**
+Some companies use samplecomponents to process samples. This is a google query that'll find all of them
+site:samplecomponents.com/scripts/samplecenter.dll?*?cmd=menu "sample center"
+Please report back anything useful
 # **The List**
 
 # Recommended
