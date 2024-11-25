@@ -17,8 +17,6 @@ Please report back anything useful
 # **The List**
 
 # Recommended
-[Maxim Integrated ](http://www.maximintegrated.com/)Sends samples only if you have a corporate/school email. Quick turnaround (3 days) and uses DHL Express WPX.
-
 [Microchip ](https://www.microchip.com/samples/) IC's / Microcontrollers. They make all kinds of stuff. I used my personal email which is on a custom domain. They do not accept common emails such as @gmail.com. I have ordered from there so much and they do not bug you / &quot;follow up&quot;. DHL Express WPX.
 
 [NXP](http://www.nxp.com/) IC's / Microcontrollers. Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks. FedEX Express.
@@ -36,9 +34,10 @@ Please report back anything useful
 
 # IC&#39;s / Microcontrollers
 
-[Maxim Integrated ](http://www.maximintegrated.com/)Sends samples only if you have a corporate/school email. Quick turnaround (3 days) and uses DHL Express WPX.
 
-[Analog Devices](http://www.analog.com/en/index.html) Samples only if you have a corporate/university E-Mail ID. Usually require an EORI number for EU shipping (you can fill in the field with N/A and mention you are a student) but this might get you in trouble with customs. You are required to fill in details about what project the samples will be used in. Only one samples account per person is allowed. Limit samples orders to two parts of each type, and five types in total.
+[Analog Devices](http://www.analog.com/en/index.html) I've tried with a academic email, no luck with form on website and no luck using their sample center either.
+
+~~[Maxim Integrated ](http://www.maximintegrated.com/)Sends samples only if you have a corporate/school email. Quick turnaround (3 days) and uses DHL Express WPX.~~ Now part of Analog Devices. Used to be great!
 
 [Texas Instruments (National Semi)](https://www-a.ti.com/apps/samp/basket.asp) TI says that samples requests are only for professional engineers and fobs you off to the TI Store.
 
