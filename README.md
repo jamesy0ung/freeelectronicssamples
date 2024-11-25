@@ -42,7 +42,7 @@ Please report back anything useful
 
 [Texas Instruments (National Semi)](https://www-a.ti.com/apps/samp/basket.asp) TI says that samples requests are only for professional engineers and fobs you off to the TI Store.
 
-[Microchip ](https://www.microchip.com/samples/)The Best. They make all kinds of stuff. I used my personal email. They do not accept common emails such as @gmail.com. I have ordered from there so much and they do not bug you / &quot;follow up&quot;
+[Microchip ](https://www.microchip.com/samples/)The Best. They make all kinds of stuff. I used my personal email. They do not accept common emails such as @gmail.com. I have ordered from there somewhat frequently much and they do not bug you / &quot;follow up&quot;
 
 [Silicon Laboratories](http://www.silabs.com/) Sent request and was shipped quickly via DHL 
 
@@ -60,7 +60,7 @@ Please report back anything useful
 
 [Central Semi](http://centralsemi.com/) Website is broken. Uses old recapcha.
 
-[Zilog](http://www.zilog.com/) Not much choice. I requested samples a while ago and no response.
+[Zilog](https://www.samplecomponents.com/scripts/samplecenter.dll?zilog) Requested samples and recieved a few months later.
 
 [Austria Microsystems](http://ams.com/) Gotten samples with no &quot;follow up&quot;. DHL Express WPX.
 
@@ -92,7 +92,7 @@ Please report back anything useful
 
 [SamTec](http://www.samtec.com/) No response yet.
 
-[Mill-Max](http://www.mill-max.com/) Sent request.
+[Mill-Max](http://www.mill-max.com/) Happy to send samples, UPS, got a pretty nice pocket magnifier as well.
 
 [Desco / Charleswater](http://desco.descoindustries.com/) Will only send to "professional engineers"
 
@@ -157,3 +157,7 @@ Please report back anything useful
 [SJS Products](http://www.sjsproducts.com/us/requests/request/quote) Have not tried.
 
 [Ecliptek](http://www.ecliptek.com/) Asked for samples and no response.
+
+[Taoglas](https://www.samplecomponents.com/scripts/samplecenter.dll?TAOGLAS) Shipping account required.
+
+[Eaton](https://www.eaton.com/au/en-gb/products/electronic-components/sample-request.html) No responce.
