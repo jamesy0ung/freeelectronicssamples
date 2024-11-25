@@ -1,6 +1,6 @@
 
 # **Please Read**
-Please contribute to this list so it does not get bad and unmaintained like the adawiki list this is based off.
+Feel free to submit a PR if anything isn't covered, or you've had a different experience than what's here.
 
 # **The Basics**
 
