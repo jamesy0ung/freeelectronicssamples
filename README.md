@@ -47,7 +47,7 @@ Please report back anything useful
 
 [STMicroelectronics](http://estore.st.com/) Ordered and sent DHL non tracked. $7 for shipping to Australia. Occasionally they have free shipping offers. Some very nice MOSFETS and other IC's.
 
-[ON Semiconductor](http://www.onsemi.com/) ON wants $15 for shipping + $5 for handling. Have not tried.
+[ON Semiconductor](https://www.onsemi.com/PowerSolutions/orderSamples.do) Only paid samples from distributor. ~~ON wants $15 for shipping + $5 for handling. Have not tried.~~
 
 [NXP](https://www.nxp.com/support/sample-and-buy/order-samples:ORDER_SAMPLES) Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks. FedEX Express.
 
