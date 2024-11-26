@@ -17,11 +17,11 @@ Please report back anything useful
 # **The List**
 
 # Recommended
-[Microchip ](https://www.microchip.com/samples/) IC's / Microcontrollers. They make all kinds of stuff. I used my personal email which is on a custom domain. They do not accept common emails such as @gmail.com. I have ordered from there so much and they do not bug you / &quot;follow up&quot;. DHL Express WPX.
+[Microchip ](https://www.microchip.com/samples/) The Best. They make all kinds of stuff. I used my personal email. They do not accept common emails such as @gmail.com. I have ordered from there somewhat frequently and they do not bug you / &quot;follow up&quot;. DHL WPX
 
-[NXP](http://www.nxp.com/) IC's / Microcontrollers. Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks. FedEX Express.
+[NXP](https://www.nxp.com/support/sample-and-buy/order-samples:ORDER_SAMPLES) Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks. FedEX Express.
 
-[Renesas](http://renesas.com/) IC's / Microcontrollers. Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts. FedEX Express.
+[Renesas](https://www.renesas.com/en/buy-sample/free-samples) Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts. FedEX Express.
 
 [Micron](http://micron.com/) IC's / Microcontrollers. Sends samples free via USPS Priority Mail. Takes 1+ months.
 
@@ -41,15 +41,15 @@ Please report back anything useful
 
 [Texas Instruments (National Semi)](https://www-a.ti.com/apps/samp/basket.asp) TI says that samples requests are only for professional engineers and fobs you off to the TI Store.
 
-[Microchip ](https://www.microchip.com/samples/)The Best. They make all kinds of stuff. I used my personal email. They do not accept common emails such as @gmail.com. I have ordered from there somewhat frequently much and they do not bug you / &quot;follow up&quot;
+[Microchip ](https://www.microchip.com/samples/)The Best. They make all kinds of stuff. I used my personal email. They do not accept common emails such as @gmail.com. I have ordered from there somewhat frequently and they do not bug you / &quot;follow up&quot;. DHL WPX
 
-[Silicon Laboratories](http://www.silabs.com/) Sent request and was shipped quickly via DHL 
+[Silicon Laboratories](https://www.silabs.com/products/buy-sample) Sent request and was shipped quickly via DHL WPX
 
-[STMicroelectronics](http://www.st.com/) Ordered and sent DHL non tracked. They want $7 for shipping to Australia. They had a free shipping offer for New Years.
+[STMicroelectronics](http://estore.st.com/) Ordered and sent DHL non tracked. $7 for shipping to Australia. Occasionally they have free shipping offers. Some very nice MOSFETS and other IC's.
 
 [ON Semiconductor](http://www.onsemi.com/) ON wants $15 for shipping + $5 for handling. Have not tried.
 
-[NXP](http://www.nxp.com/) Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks.
+[NXP](https://www.nxp.com/support/sample-and-buy/order-samples:ORDER_SAMPLES) Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks. FedEX Express.
 
 [Cirrus Logic ](http://www.cirrus.com/)Haven&#39;t tried yet
 
@@ -63,15 +63,19 @@ Please report back anything useful
 
 [Austria Microsystems](http://ams.com/) Gotten samples with no &quot;follow up&quot;. DHL Express WPX.
 
-[Macronix International](http://macronix.com/) They do not want to send samples and if you really ask them, they will ask you for a shipping account number.
+[Macronix International](http://macronix.com/) Will not send samples unless you are a business and have account number
 
-[Renesas](http://renesas.com/) Pretty good. They send samples of cheap stuff within a week and also fulfilled my requests for more expensive parts. FedEX Express.
+[Renesas](https://www.renesas.com/en/buy-sample/free-samples) Pretty good. Sent samples of cheap stuff within a week and also fulfilled my requests for more expensive parts. FedEX Express.
 
 [Micron](http://micron.com/) IC's / Microcontrollers. Sends samples free via USPS Priority Mail. Takes 1+ months.
 
 [Micro Crystal](https://www.microcrystal.com/en/) Real Time clock and crystal oscilator. Sends a demo bard and 5 pieces sample. Forwarded my details to annoying distirbutor. FedEX Express.
 
 [Nexperia](http://www.nexperia.com/) ICs. Writing the sales office a short email about your project is the way to go. Very quick response and delivery.
+
+[Monolithic Power Systems](https://www.monolithicpower.com/en/contact/request-for-sample.html) Power and amplifiers. Have not tried.
+
+
 
 # Passives / Opto / Discrete Semi
 
@@ -83,7 +87,7 @@ Please report back anything useful
 
 [Bivar](http://www.bivar.com/) They do not send samples and want you to buy them.
 
-[Lite-On](http://us.liteon.com/en-global/Home/index) Sent request.
+[Lite-On](http://us.liteon.com/en-global/Home/index) No response yet.
 
 # Connectors
 
@@ -141,7 +145,7 @@ Please report back anything useful
 
 [LittelFuse](http://www.littelfuse.com/) Have not tried.
 
-[Bourns](http://www.bourns.com/SampleReq.aspx) Not even going to try. Apparently they will pester you consistently.
+[Bourns](http://www.bourns.com/SampleReq.aspx) Have not tried.
 
 [Ametherm](http://www.ametherm.com/SampleRequest.html) Free shipping only for usa and Canada. Have not tried.
 
@@ -155,7 +159,7 @@ Please report back anything useful
 
 [SJS Products](http://www.sjsproducts.com/us/requests/request/quote) Have not tried.
 
-[Ecliptek](http://www.ecliptek.com/) Asked for samples and no response.
+[Ecliptek](http://www.ecliptek.com/) No response.
 
 [Taoglas](https://www.samplecomponents.com/scripts/samplecenter.dll?TAOGLAS) Shipping account required.
 
