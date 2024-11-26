@@ -145,7 +145,7 @@ Please report back anything useful
 
 [LittelFuse](http://www.littelfuse.com/) Have not tried.
 
-[Bourns](http://www.bourns.com/SampleReq.aspx) Have not tried.
+[Bourns](http://www.bourns.com/SampleReq.aspx) No samples. Hello James, Thank you for your interest in Bourns’ products. Please visit our website (www.bourns.com) for a list of authorised online channel partners to purchase the required parts.
 
 [Ametherm](http://www.ametherm.com/SampleRequest.html) Free shipping only for usa and Canada. Have not tried.
 
