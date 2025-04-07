@@ -45,7 +45,7 @@ Please report back anything useful
 
 [Silicon Laboratories](https://www.silabs.com/products/buy-sample) Sent request and was shipped quickly via DHL WPX
 
-[STMicroelectronics](http://estore.st.com/) Ordered and sent DHL non tracked. $7 for shipping to Australia. Occasionally they have free shipping offers. Some very nice MOSFETS and other IC's.
+[STMicroelectronics](http://estore.st.com/) Ordered and sent DHL non tracked. $7 for shipping to Australia. Occasionally they have free shipping offers, sign up for the newsletter. Some very nice MOSFETS and other IC's.
 
 [ON Semiconductor](https://www.onsemi.com/PowerSolutions/orderSamples.do) Only paid samples from distributor. ~~ON wants $15 for shipping + $5 for handling. Have not tried.~~
 
