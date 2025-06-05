@@ -79,7 +79,7 @@ Please report back anything useful
 
 # Passives / Opto / Discrete Semi
 
-[Vishay](http://vishay.com/) They don&#39;t send samples (if) you can find a part that Vishay &quot;stocks&quot;
+[Vishay](http://vishay.com/) Contact a sales representative directly and explain your project needs and they will provide parts quickly and completely free of charge.
 
 [TE](http://te.com/) TE Connectivity. Pretty good. Sent multiple orders with more expensive parts. All were shipped very quickly. I got 1 email from sales, but they haven&#39;t bugged me. FedEX Express
 
