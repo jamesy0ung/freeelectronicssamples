@@ -89,6 +89,8 @@ Please report back anything useful
 
 [Lite-On](http://us.liteon.com/en-global/Home/index) No response yet.
 
+[Wolfspeed](https://www.samplecomponents.com/scripts/samplecenter.dll?WOLFSPEED) Sales rep contacted for project details. Helpful and sent quickly with FEDEX INTL 2 DAY.
+
 # Connectors
 
 [TE](http://te.com/) Connectivity. Sent multiple orders with more expensive parts. I got 1 email from sales, but they haven&#39;t bugged me. FedEX Express.
