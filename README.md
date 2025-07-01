@@ -35,7 +35,7 @@ Please report back anything useful
 # IC&#39;s / Microcontrollers
 
 
-[Analog Devices](http://www.analog.com/en/index.html) I've tried with a academic email, no luck with form on website and no luck using their sample center either.
+[Analog Devices](https://www.analog.com/en/support/sample-products.html) I've tried with a academic email, no luck with form on website and no luck using their sample center either.
 
 ~~[Maxim Integrated ](http://www.maximintegrated.com/)Sends samples only if you have a corporate/school email. Quick turnaround (3 days) and uses DHL Express WPX.~~ Now part of Analog Devices. Used to be great!
 
@@ -45,13 +45,13 @@ Please report back anything useful
 
 [Silicon Laboratories](https://www.silabs.com/products/buy-sample) Sent request and was shipped quickly via DHL WPX
 
-[STMicroelectronics](http://estore.st.com/) Ordered and sent DHL non tracked. $7 for shipping to Australia. Occasionally they have free shipping offers, sign up for the newsletter. Some very nice MOSFETS and other IC's.
+[STMicroelectronics](http://estore.st.com/) Ordered and sent DHL non tracked. $7 for shipping to Australia. Occasionally they have free shipping offers, sign up for the newsletter. Some very nice MOSFETS and other IC's. They had free Nucleo boards with free shipping in June 2025.
 
 [ON Semiconductor](https://www.onsemi.com/PowerSolutions/orderSamples.do) Only paid samples from distributor. ~~ON wants $15 for shipping + $5 for handling. Have not tried.~~
 
 [NXP](https://www.nxp.com/support/sample-and-buy/order-samples:ORDER_SAMPLES) Pretty good. They even offer free &quot;priority&quot; shipping if you click the button that asks. FedEX Express.
 
-[Cirrus Logic ](http://www.cirrus.com/)Haven&#39;t tried yet
+[Cirrus Logic](https://www.samplecomponents.com/scripts/samplecenter.dll?CIRRUS?) Haven&#39;t tried yet
 
 [Allegro Microsystems](http://www.allegromicro.com/) No option for samples on website.
 
@@ -61,7 +61,7 @@ Please report back anything useful
 
 [Zilog](https://www.samplecomponents.com/scripts/samplecenter.dll?zilog) Requested samples and recieved a few months later.
 
-[Austria Microsystems](http://ams.com/) Gotten samples with no &quot;follow up&quot;. DHL Express WPX.
+[Austria Microsystems](https://ams-osram.com) Gotten samples with no &quot;follow up&quot;. DHL Express WPX.
 
 [Macronix International](http://macronix.com/) Will not send samples unless you are a business and have account number
 
