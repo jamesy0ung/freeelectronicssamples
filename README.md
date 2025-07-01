@@ -166,3 +166,5 @@ Please report back anything useful
 [Taoglas](https://www.samplecomponents.com/scripts/samplecenter.dll?TAOGLAS) Shipping account required.
 
 [Eaton](https://www.eaton.com/au/en-gb/products/electronic-components/sample-request.html) No responce.
+
+[Rohm](https://www.samplecomponents.com/scripts/samplecenter.dll?ROHM?cmd=login) Needs shipping account, have not tried.
