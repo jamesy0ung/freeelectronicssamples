@@ -99,11 +99,13 @@ Please report back anything useful
 
 [Mill-Max](http://www.mill-max.com/) Happy to send samples, UPS, got a pretty nice pocket magnifier as well.
 
+[Molex](https://www.molex.com) Able to sample 5 types of connector, 10 each of regular and 3 each of wiring assembly per order with account.
+
 [Desco / Charleswater](http://desco.descoindustries.com/) Will only send to "professional engineers"
 
 [ITW/Fastex](http://www.itw-fastex.com/catalog.html) Have not tried.
 
-[Keystone electronics](http://www.keyelco.com/contact.asp) They sent my request to a distributor who has not contacted me.
+[Keystone electronics](http://www.keyelco.com/contact.asp) Was able to create an account and add products to cart as samples.
 
 [Metz Connect](https://www.metz-connect.com/us/sample-order) Have not tried.
 
