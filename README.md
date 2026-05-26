@@ -117,6 +117,7 @@ Please report back anything useful
 
 [3M](http://solutions.3m.com/wps/portal/3M/en_WW/electronics/home/SupportTraining/ContactUs/?PC_7_RJH9U5230GE3E02LECIE204UH5_univid=1180594590962&amp;Interconnects%20Request%20a%20Sample%20/%20Information) Their website is hard to navigate and I cannot find a samples request form for Australia.
 
+[JAE Connectors](https://www.samplecomponents.com/scripts/samplecenter.dll?JAE) Havent tried
 # Enclosures
 
 [PacTec Enclosures](http://www.pactecenclosures.com/free_sample.lfml) Have not tried.
