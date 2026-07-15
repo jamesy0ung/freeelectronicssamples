@@ -171,3 +171,20 @@ Please report back anything useful
 [Eaton](https://samplecomponents.com/scripts/samplecenter.dll?EatonElect?cmd=menu) No responce.
 
 [Rohm](https://www.samplecomponents.com/scripts/samplecenter.dll?ROHM?cmd=login) Needs shipping account, have not tried.
+
+[Infineon](https://www.infineon.com/contact-us/where-to-buy/online-sampling) Have not tried.
+
+[Toshiba](https://toshiba.semicon-storage.com/ap-en/semiconductor/knowledge/faq/motor-driver-ics/how-can-i-purchase-samples-and-evaluation-boards.html) Paid samples only.
+
+[Winbond](https://www.winbond.com/hq/support/faq/sale/?__locale=en) Paid samples only.
+
+[Murata](https://my.murata.com/en/web/samplerequest) Needs your account to recieve approval to see the samples and order (I got denied).
+
+[Qorvo](https://www.qorvo.com/support/how-to-buy/request-a-sample) Have not tried.
+
+[Recom](https://recom-power.com/en/support/buy/sample-request.html?0) Have not tried.
+
+[Traco](https://www.tracopower.com/int/samples-request) Have not tried.
+
+
+
